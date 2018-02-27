@@ -1,4 +1,4 @@
-# boun_shape_context
+# Boun ASC Affordance Detector
 
 This repository has the codes for IMAGINE ASC research about affordances and action-effect predictions.
 
